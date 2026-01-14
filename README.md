@@ -11,7 +11,7 @@ npm install neelo4-component-library
 ## Usage
 
 ```tsx
-import { Button } from 'neelo4-component-library';
+import { Button } from "neelo4-component-library";
 
 function App() {
   return <Button>Click me</Button>;
