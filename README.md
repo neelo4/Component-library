@@ -5,13 +5,13 @@ A React TypeScript component library built with Vite.
 ## Installation
 
 ```bash
-npm install component-library
+npm install @neelo4/component-library
 ```
 
 ## Usage
 
 ```tsx
-import { Button } from 'component-library';
+import { Button } from '@neelo4/component-library';
 
 function App() {
   return <Button>Click me</Button>;
