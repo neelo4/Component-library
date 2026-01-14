@@ -1,11 +1,21 @@
 # Component Library
 
-A React TypeScript component library.
+A React TypeScript component library built with Vite.
 
 ## Installation
 
 ```bash
 npm install component-library
+```
+
+## Usage
+
+```tsx
+import { Button } from 'component-library';
+
+function App() {
+  return <Button>Click me</Button>;
+}
 ```
 
 ## Usage
