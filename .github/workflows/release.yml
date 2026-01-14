@@ -28,4 +28,4 @@ jobs:
         run: npm run semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPMTOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
