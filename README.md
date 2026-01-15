@@ -1,4 +1,4 @@
-# Component Library
+# Neelofar Component Library
 
 A React TypeScript component library built with Vite.
 
